@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83a99ed9-0b1d-40a3-bec1-dc8e175df732" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/bancolombia/certification/Wingo2/tasks/ComprarVueloTasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/bancolombia/certification/Wingo2/userinterfaces/ComprarVueloUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/bancolombia/certification/Wingo2/runner/ComprarVueloRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/bancolombia/certification/Wingo2/stepdefinitions/ComprarVueloStepDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/comprar_vuelo.feature" afterDir="false" />
-    </list>
+    <list default="true" id="83a99ed9-0b1d-40a3-bec1-dc8e175df732" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
